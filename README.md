@@ -24,6 +24,11 @@ pip install -r requirements.txt
 python ./src/search_engine.py
 ```
 
+### Decrypting
+
+To decrypt a file before running, you can use `./tools/scripts/decrypt.sh`, which will decrypt the `wiki/secret.enc` by default.
+Configure this files `FILE` variable in case you want to change the default.
+
 ## Testing
 
 ### High-level Testing of Indexing and LLM
