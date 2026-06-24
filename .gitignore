@@ -1,0 +1,5 @@
+__pycache__
+
+wiki/index.txt
+wiki/*_part*.txt
+wiki/*decrypted.txt
